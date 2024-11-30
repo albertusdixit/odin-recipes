@@ -6,6 +6,31 @@ body {
 h1 {
     color: red;
     font-weight: 700;
+    text-align: center;
+    padding: 10px;
 }
 
+h2 {
+    text-align: center;
+}
 
+.Ingredients {
+    padding: 8px;
+}
+
+.Directions {
+    margin: 8px;
+}
+
+li {
+    padding: 5px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+p, ul, ol {
+    margin: 25px 100px;
+}
